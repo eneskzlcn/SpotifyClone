@@ -28,6 +28,7 @@
 		269BF59328522CF200F8956C /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
 		269BF59628522D1600F8956C /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		269BF59828522D3600F8956C /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		269BF59A2852349D00F8956C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		269BF56B2851F80F00F8956C = {
 			isa = PBXGroup;
 			children = (
+				269BF59A2852349D00F8956C /* README.md */,
 				269BF5762851F80F00F8956C /* Spotify Clone */,
 				269BF5752851F80F00F8956C /* Products */,
 			);
